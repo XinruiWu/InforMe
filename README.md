@@ -1,7 +1,7 @@
 # How to compile and run in terminal:
 
     $ javac Project/MainProducer.java
-    $ java Project/Mainproducer
+    $ java Project/MainProducer
 
 
 # System Setup: (Compile all then run in sequence) :
