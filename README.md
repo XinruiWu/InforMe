@@ -11,7 +11,7 @@
 
 `Broker.java`
 
-Enter `Y`  for the first broker, `N` and `#Port` for backup brokers
+Enter `Y`  for the first broker, `N` and `{Port}` for backup brokers
 
 `ServerApp5000.java`
 
